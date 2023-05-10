@@ -24,7 +24,7 @@
   ## Clone
 
   ```
-  git clone https://github.com/DiogoRealles/xbox-serie-x
+  git clone git@github.com:DiogoRealles/xbox-serie-x.git
   ```
 </div>
 
