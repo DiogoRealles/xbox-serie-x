@@ -14,14 +14,30 @@
 
 <div>
 
-  # Aprendizados
+  # ⚡ Overview
+  LP | Xbox Serie X: Landing page é uma página para apresentação do novo console Xbox Serie X e suas features e melhorias.
+  O layout foi desenvolvido pelo UI Designer Jonas Milan,
+   
+  ## Features:
+  - Manipulação de DOM
+  - Fidelidade ao layout original;
+  - Fully Responsive
+  - SEO Optimized
+  - W3C Validation
+  - Smooth Animation
+  - Animações de entradas com lib AOS JS.
+  - Pages Load Speed
+  - Page Home
+  - Page Style Guide
+  - Layout Clean and Modern
+
+  # 📚 Aprendizados
   Usar animações de efeitos entrada com biblioteca AOS, imagens em camadas (z-index)<br />
   Uso de tipografia que combine com o projeto.
-  <br /><br />
 
-  # <b>[Ver online 🡽](https://xbox-serie-x.softwarealles.repl.co/)</b>
+  # 🚀 <b>[Ver online](https://xbox-serie-x.softwarealles.repl.co/)</b>
 
-  ## Clone
+  ## 👽 Clone
 
   ```
   git clone git@github.com:DiogoRealles/xbox-serie-x.git
