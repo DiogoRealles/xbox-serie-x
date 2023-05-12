@@ -21,21 +21,20 @@
   ## Features:
   - Manipulação de DOM
   - Fidelidade ao layout original;
-  - Fully Responsive
-  - SEO Optimized
-  - W3C Validation
-  - Smooth Animation
+  - Totalmente Responsivo
+  - SEO otimizado
+  - W3C validação
+  - Animações suaves
   - Animações de entradas com lib AOS JS.
-  - Pages Load Speed
-  - Page Home
-  - Page Style Guide
-  - Layout Clean and Modern
+  - Página com carregamento rápido
+  - Página Home | Styleguide
+  - Layout Clean e Moderno
 
   # 📚 Aprendizados
   Usar animações de efeitos entrada com biblioteca AOS, imagens em camadas (z-index)<br />
   Uso de tipografia que combine com o projeto.
 
-  # 🚀 <b>[Ver online](https://xbox-serie-x.softwarealles.repl.co/)</b>
+  # 🚀 [Ver online](https://xbox-serie-x.softwarealles.repl.co/)
 
   ## 👽 Clone
 
