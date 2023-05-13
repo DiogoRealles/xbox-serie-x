@@ -35,7 +35,7 @@
   Uso de tipografia que combine com o projeto.
 
   # 🚀 Deploy
-  [https://xbox-serie-x.repl.co](https://xbox-serie-x.softwarealles.repl.co/)
+  [Ver online](https://xbox-serie-x.softwarealles.repl.co/)
 
   ## 👽 Clone
 
