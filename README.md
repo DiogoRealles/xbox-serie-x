@@ -34,7 +34,8 @@
   Usar animações de efeitos entrada com biblioteca AOS, imagens em camadas (z-index)<br />
   Uso de tipografia que combine com o projeto.
 
-  # 🚀 [Ver online](https://xbox-serie-x.softwarealles.repl.co/)
+  # 🚀 Deploy
+  [https://xbox-serie-x.repl.co](https://xbox-serie-x.softwarealles.repl.co/)
 
   ## 👽 Clone
 
